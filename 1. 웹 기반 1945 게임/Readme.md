@@ -53,11 +53,11 @@
 
 ## 결과
 <p align="center">
-  <img src="이미지_URL_1" align="center" width="32%">
-  <img src="이미지_URL_2" align="center" width="32%">
-  <img src="이미지_URL_3" align="center" width="32%">
-  <figcaption align="center">1945 결과</figcaption>
+  <img src="https://github.com/user-attachments/assets/327b0431-af7a-4b65-8af3-37ea158cd550" align="center" width="32%">
+  <img src="https://github.com/user-attachments/assets/8406b9ba-6a79-4c98-91c5-fb58e16e7040" align="center" width="32%">
+  <img src="https://github.com/user-attachments/assets/282a4ecf-649d-4576-ae12-55497c65a8d9" align="center" width="32%">
 </p>
+
 
 
 ## 나의 역할 기여
