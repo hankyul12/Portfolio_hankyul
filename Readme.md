@@ -25,7 +25,7 @@
 - MOS Excel | 2019.06
 - MOS PowerPoint | 2019.04
   
-## 직무역량
+## job competence
 - **Java**: 객체지향 설계 및 개발, 문법을 적용한 코드 작성, 라이브러리 활용 가능
 - **MySQL**: SQL 구문 작성, 데이터 모델링 및 애플리케이션 연동 개발 가능
 - **HTML, CSS, JavaScript**: 웹 개발에 필요한 기본적인 이해 및 활용능력, 구조화, UI 설계 가능
@@ -35,9 +35,9 @@
 - **Spring**: Spring Data JPA를 활용한 웹 애플리케이션 설계 가능
 - **Flutter**: 다수 플랫폼에 대한 애플리케이션 사용자 인터페이스 설계 가능
 
-## 일반역량
+## general competence
 - **한글 (HWP)**: 문서 작성 및 편집, 양식 설정, 스타일 적용을 통한 보고서 작성 가능
 - **Microsoft Excel**: 문서 작성 및 편집, 각종 함수 사용, 시트 수정 및 서식 지정을 통한 엑셀 작업 가능
 - **Microsoft PowerPoint**: 슬라이드 디자인, 애니메이션 효과 적용, 표 및 시각화 자료를 활용한 발표 자료 제작 가능
 
-## 프로젝트
+## Project
