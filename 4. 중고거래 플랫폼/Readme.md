@@ -74,7 +74,7 @@
 ## 결과
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1cdda9cd-073b-439c-8b8d-463ecd9e2317" width="32%" >
-  <img src="https://github.com/user-attachments/assets/7ddc831e-9d2a-4f74-a5b1-edf647b6782f" width="32%" >
+  <img src="https://github.com/user-attachments/assets/7ddc831e-9d2a-4f74-a5b1-edf647b6782f" width="32%" height="150px">
   <img src="https://github.com/user-attachments/assets/023fd40d-f092-4cf9-a411-7c9483055e71" width="32%">
   <img src="https://github.com/user-attachments/assets/de5334a0-de76-4bb2-8025-99219fbecd77" width="32%" >
 </p>
