@@ -1,7 +1,7 @@
 # TODO 리스트
 
-## 개발자
-이한결,  1인 프로젝트
+## 1인 프로젝트 (내 첫 HTML5 프로젝트)
+이한결
 
 ## 기간
 2023.10.29. - 2023.11.06.
@@ -84,7 +84,14 @@
 - dialog, win
 - Sectioning Elements (header, nav, aside, footer)
 
-## 8. 결론
+## 8. 결과
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d0ae3a38-340c-4235-9cd7-42f97959f2a0" width="32%" height="auto">
+  <img src="https://github.com/user-attachments/assets/0b37f5f0-c2b3-4a98-b72c-4a70da3ed2c1" width="32%" height="auto">
+</p>
+
+
+## 9. 결론
 해야 할 일 추가, 삭제, 마감일 설정, 완료 요약 및 기록, 시계 및 알람 기능이 있는 TODO 웹 애플리케이션을 만들었습니다.
 제작 기간 동안 개선이 필요한 부분이 많다는 것을 느꼈습니다. 
 
