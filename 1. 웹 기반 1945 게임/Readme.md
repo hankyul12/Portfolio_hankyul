@@ -51,6 +51,15 @@
 - **HTML/CSS**: UI 디자인 및 레이아웃
 - **JavaScript**: 게임 로직 구현, 비행기, 아이템, 점수, 타이머, 키보드 입력 처리 등
 
+## 결과
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/327b0431-af7a-4b65-8af3-37ea158cd550" align="center" width="32%">
+  <img src="https://github.com/user-attachments/assets/8406b9ba-6a79-4c98-91c5-fb58e16e7040" align="center" width="32%">
+  <img src="https://github.com/user-attachments/assets/282a4ecf-649d-4576-ae12-55497c65a8d9" align="center" width="32%">
+</p>
+
+
+
 ## 나의 역할 기여
 - **타이머구현**
 - **탄막 구현**
