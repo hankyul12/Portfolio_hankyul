@@ -61,6 +61,19 @@
 - **DB**: JDBC, DAO 패턴, 정규화된 데이터베이스 설계
 - **통신**: JSON 방식의 클라이언트-서버 통신
 - **암호화**: RSA, AES (세션키 전달 및 양방향 데이터 통신 암호화)
+## 결과
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1bcba072-4df0-4f77-8049-111efbe8b762" width="32%">
+  <img src="https://github.com/user-attachments/assets/aef4f4da-73d9-4bbf-b695-92f36f306e7f" width="32%">
+  <img src="https://github.com/user-attachments/assets/ba8acdea-498b-444e-a962-fbeacaf4c64e" width="32%">
+  <img src="https://github.com/user-attachments/assets/958c4b6e-e55e-492f-b7c5-73078ad007da" width="32%">
+  <img src="https://github.com/user-attachments/assets/63703927-13ba-4f7f-add6-d15e4cd393ba" width="32%">
+  <img src="https://github.com/user-attachments/assets/caae3790-0de9-4538-a83a-fe409f0bb897" width="32%">
+  <img src="https://github.com/user-attachments/assets/eaef6f30-b99c-4032-a29d-423c22294869" width="32%">
+  <img src="https://github.com/user-attachments/assets/1a18d361-4702-4ba9-a53d-00e969d6f5a4" width="32%">
+  <img src="https://github.com/user-attachments/assets/4a3b6c80-c051-4541-aaed-4384dde644fc" width="32%">
+</p>
+
 
 ## 나의 역할 기여
 - **DB 설계**
