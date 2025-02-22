@@ -39,7 +39,8 @@
 # Project 
 
 ### 1. 웹 기반 1945 게임  
-<img src="https://github.com/user-attachments/assets/486a23bf-98fe-4407-8a19-9710b82a0f58" width="600"/>  
+<img src="https://github.com/user-attachments/assets/486a23bf-98fe-4407-8a19-9710b82a0f58" width="600"/> 
+
 [🔗 프로젝트 링크](https://github.com/hankyul12/Portfolio_hankyul/tree/main/1.%20%EC%9B%B9%20%EA%B8%B0%EB%B0%98%201945%20%EA%B2%8C%EC%9E%84)  
 웹 브라우저에서 즐길 수 있는 1945 슈팅 게임 구현  
 
@@ -47,6 +48,7 @@
 
 ### 2. 멀티룸 대여 플랫폼  
 <img src="https://github.com/user-attachments/assets/5516ce87-c862-40f0-9644-3969d2e8cb83" width="600"/>  
+
 [🔗 프로젝트 링크](https://github.com/hankyul12/Portfolio_hankyul/tree/cfae7f5760854448ee6d70bc68269c2bd1686bfb/2.%20%EB%A9%80%ED%8B%B0%EB%A3%B8%20%EB%8C%80%EC%97%AC%20%ED%94%8C%EB%9E%AB%ED%8F%BC)  
 다양한 공간을 예약하고 대여할 수 있는 플랫폼  
 
@@ -54,6 +56,7 @@
 
 ### 3. 위치 기반 도우미 매칭  
 <img src="https://github.com/user-attachments/assets/bff401b9-36a7-4bb1-865a-241095a96b42"/>  
+
 [🔗 프로젝트 링크](https://github.com/hankyul12/Portfolio_hankyul/tree/cfae7f5760854448ee6d70bc68269c2bd1686bfb/3.%20%EC%9C%84%EC%B9%98%20%EA%B8%B0%EB%B0%98%20%EB%8F%84%EC%9A%B0%EB%AF%B8%20%EB%A7%A4%EC%B9%AD)  
 사용자의 위치를 기반으로 도우미를 매칭해주는 서비스  
 
@@ -61,6 +64,7 @@
 
 ### 4. 중고거래 플랫폼  
 <img src="https://github.com/user-attachments/assets/282f71a3-0af0-415b-9fa9-922f119902da" width="600"/>  
+
 [🔗 프로젝트 링크](https://github.com/hankyul12/Portfolio_hankyul/tree/cfae7f5760854448ee6d70bc68269c2bd1686bfb/4.%20%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98%20%ED%94%8C%EB%9E%AB%ED%8F%BC)  
 중고 물품을 사고팔 수 있는 거래 플랫폼  
 
@@ -68,8 +72,9 @@
 
 ### 5. TODO 리스트  
 <img src="https://github.com/user-attachments/assets/0b6a79d4-93c7-45be-9a61-c0c2512b20b4" width="600"/>  
+
 [🔗 프로젝트 링크](https://github.com/hankyul12/Portfolio_hankyul/tree/cfae7f5760854448ee6d70bc68269c2bd1686bfb/5.%20TODO%20%EB%A6%AC%EC%8A%A4%ED%8A%B8)  
-할 일을 정리하고 관리할 수 있는 간단한 TODO 리스트 애플리케이션  
+할 일을 정리하고 관리할 수 있는 간단한 TODO 리스트   
 
 ---
 
