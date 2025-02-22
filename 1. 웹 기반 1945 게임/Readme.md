@@ -52,9 +52,11 @@
 - **JavaScript**: 게임 로직 구현, 비행기, 아이템, 점수, 타이머, 키보드 입력 처리 등
 
 ## 결과
-![Image](https://github.com/user-attachments/assets/327b0431-af7a-4b65-8af3-37ea158cd550)
-![Image](https://github.com/user-attachments/assets/8406b9ba-6a79-4c98-91c5-fb58e16e7040)
-![Image](https://github.com/user-attachments/assets/282a4ecf-649d-4576-ae12-55497c65a8d9)
+
+![Image 1](https://github.com/user-attachments/assets/327b0431-af7a-4b65-8af3-37ea158cd550)  
+![Image 2](https://github.com/user-attachments/assets/8406b9ba-6a79-4c98-91c5-fb58e16e7040)  
+![Image 3](https://github.com/user-attachments/assets/282a4ecf-649d-4576-ae12-55497c65a8d9)
+
 
 ## 나의 역할 기여
 - **타이머구현**
