@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>A L A R M</title>
+</head>
+<body>
+    <h1>알람 설정</h1>
+    <input type="time" id="time">
+    <input type="text" id="alert" placeholder="알람 메시지" />
+    <input type="button" value="초기화" onclick="delAlarm()">
+
+    <script>
+        function delAlarm() {
+            var time = document.getElementById("time");
+            var text = document.getElementById('alert');
+            time.value = "";
+            text.value = "";
+        }
+
+        setInterval(function() {
+            var time = document.getElementById('time').value;
+            var text = document.getElementById('alert');
+            var today = new Date();
+            var nowHours = today.getHours();
+            var nowMinutes = today.getMinutes();
+            var nowSeconds = today.getSeconds();
+            
+            if (time) {
+                var time_hours = parseInt(time.substr(0, 2), 10);
+                var time_minutes = parseInt(time.substr(3, 2), 10);
+
+                if (nowHours === time_hours && nowMinutes === time_minutes && nowSeconds === 0) {
+                    alert(text.value);
+                }
+            }
+        }, 1000);
+    </script>
+</body>
+</html>
