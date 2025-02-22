@@ -1,8 +1,3 @@
-# Profile
-![Image](https://github.com/user-attachments/assets/84af1dfe-5335-425c-b7a6-1d82a3efe575)
-이한결
-
-
 # Intro
 안녕하세요. 저는 이름처럼 한결같은 꾸준함을 장점으로 둔 이한결입니다.
 
